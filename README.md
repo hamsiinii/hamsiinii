@@ -7,7 +7,7 @@
 
 🎓 I'm a Computer Science & Engineering student passionate about solving real-world problems using **AI**, **IoT**, and **full-stack systems**. I love bridging the gap between software and hardware through creative and impactful projects.
 
-🔍 Currently exploring areas like **Vehicle-to-Vehicle (V2V) communication**, **real-time traffic control**, and **smart agriculture systems** with emerging tech simulations.
+🔍 Currently exploring areas like **real-time traffic control**, **Student management System** and **smart early warning crisis detection systems** with emerging tech simulations.
 
 ---
 
@@ -40,6 +40,7 @@
 - 🔧 **Smart Traffic Management**: Real-time IoT-based dynamic signal control using ESP8266 and sensors.
 - 🚑 **Ambulance Green Corridor Simulation**: Built with Flask, Google Maps API, Leaflet.js for emergency rerouting.
 - 🧪 **CNN for Oral Cancer Detection**: Medical imaging analysis using Deep Learning.
+- 🔧 **Student management System**: Using Java Springboot, postgresql and redis created Studentms with email notification system.
 - ✅ **Node.js Task Manager CLI**: Command-line tool to track, manage, and persist tasks.
 
 ---
