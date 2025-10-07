@@ -7,7 +7,7 @@
 
 🎓 I'm a Computer Science & Engineering student passionate about solving real-world problems using **AI**, **IoT**, and **full-stack systems**. I love bridging the gap between software and hardware through creative and impactful projects.
 
-🔍 Currently exploring areas like **real-time traffic control**, **Student management System** and **smart early warning crisis detection systems** with emerging tech simulations.
+🔍 Currently exploring areas in **Student management System** and **Smart early warning crisis detection systems** with emerging tech simulations.
 
 ---
 
