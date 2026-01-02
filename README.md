@@ -5,9 +5,9 @@
 
 # 👋 Hi, I'm Hamsini Neelakantan!
 
-🎓 I'm a Computer Science & Engineering student passionate about solving real-world problems using **AI**, **IoT**, and **full-stack systems**. I love bridging the gap between software and hardware through creative and impactful projects.
+🎓 I'm a Computer Science & Engineering student passionate about solving real-world problems using **AI & ML**, **IoT**, and **Full-stack systems**. I love bridging the gap between software and hardware through creative and impactful projects.
 
-🔍 Currently exploring areas in **Student management System** and **Smart early warning crisis detection systems** with emerging tech simulations.
+🔍 Currently exploring areas in **ML Network anomaly DETECTION FOR WEB APPLICATION FIREWALL(WAF)** and **Smart early warning crisis detection systems** with emerging tech simulations.
 
 ---
 
@@ -39,7 +39,7 @@
 
 - 🔧 **Smart Traffic Management**: Real-time IoT-based dynamic signal control using ESP8266 and sensors.
 - 🚑 **Ambulance Green Corridor Simulation**: Built with Flask, Google Maps API, Leaflet.js for emergency rerouting.
-- 🧪 **CNN for Oral Cancer Detection**: Medical imaging analysis using Deep Learning.
+- 🧪 **Intelligent AI Drought prediction system**: Drought prediction using Deep Learning - STAT LSTM.
 - 🔧 **Student management System**: Using Java Springboot, postgresql and redis created Studentms with email notification system.
 - ✅ **Node.js Task Manager CLI**: Command-line tool to track, manage, and persist tasks.
 
@@ -54,8 +54,8 @@
 
 ## 🧭 What I'm Exploring
 
-- 🤖 AI/ML for Smart Farming
-- 🚗 LoRa & ESP-based communication systems
+- 🤖 AI & ML for Real time predictions
+- 🚗 ESP-based communication systems
 - 🧠 Real-time decision-making algorithms for traffic & routing
 - 📊 Visual analytics for sensor-based monitoring
 
