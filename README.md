@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Hamsini Neelakantan!
 
-🎓 I'm a Computer Science & Engineering student passionate about solving real-world problems using **AI & ML**, **IoT**, and **Full-stack systems**. I love bridging the gap between software and hardware through creative and impactful projects.
+🎓 I'm a Computer Science & Engineering student passionate about solving real-world problems using **AI & ML**, **IoT** and **Full-stack systems**. I love bridging the gap between software and hardware through creative and impactful projects.
 
 🔍 Currently exploring areas in **ML Network anomaly DETECTION FOR WEB APPLICATION FIREWALL(WAF)** and **Smart early warning crisis detection systems** with emerging tech simulations.
 
@@ -39,8 +39,7 @@
 ---
 
 ## 🚀 Projects & Domains
-
-- 🔧 **Smart Traffic Management**: Real-time IoT-based dynamic signal control using ESP8266 and sensors.
+- 🔧 **BeyondChats Article Processing Platform**: Designed and implemented RESTful APIs for ingesting, processing, and storing large volumes of article data.
 - 🚑 **Ambulance Green Corridor Simulation**: Built with Flask, Google Maps API, Leaflet.js for emergency rerouting.
 - 🧪 **Intelligent AI Drought prediction system**: Drought prediction using Deep Learning - STAT LSTM.
 - 🔧 **Student management System**: Using Java Springboot, postgresql and redis created Studentms with email notification system.
