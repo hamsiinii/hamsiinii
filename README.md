@@ -14,6 +14,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamsini-neelakantan) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamsini.nj@outlook.com)
+[![BlueSky](https://img.shields.io/badge/BlueSky-D14836?logo=gmail&logoColor=white)](https://bsky.app/profile/sinimah.bsky.social)
+
 
 ---
 
