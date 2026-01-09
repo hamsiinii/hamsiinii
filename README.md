@@ -7,7 +7,7 @@
 
 🎓 I'm a Computer Science & Engineering student passionate about solving real-world problems using **AI & ML**, **IoT** and **Full-stack systems**. I love bridging the gap between software and hardware through creative and impactful projects.
 
-🔍 Currently exploring areas in **ML Network anomaly DETECTION FOR WEB APPLICATION FIREWALL(WAF)** and **Smart early warning crisis detection systems** with emerging tech simulations.
+🔍 Currently exploring areas in ML Network anomaly detection FOR WEB APPLICATION FIREWALL and **Smart early warning crisis detection systems** with emerging tech simulations.
 
 ---
 
@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hamsiinii&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hamsiinii&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamsiinii&theme=neon&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamsiinii&theme=neon&hide_border=false&layout=compact)<br/>
 
 ---
 
