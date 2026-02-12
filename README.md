@@ -6,6 +6,7 @@
 # 👋 Hi, I'm Hamsini Neelakantan!
 
 🎓 Computer Science & Engineering student focused on building intelligent, real-world systems using AI/ML, IoT, and full-stack development. I enjoy designing solutions that connect software with hardware to solve practical problems.
+
 Currently exploring machine learning–based network anomaly detection for Web Application Firewalls and smart early-warning crisis detection systems using simulation-driven approaches.
 
 ## 🌐 Socials:
