@@ -5,11 +5,8 @@
 
 # 👋 Hi, I'm Hamsini Neelakantan!
 
-🎓 I'm a Computer Science & Engineering student passionate about solving real-world problems using **AI & ML**, **IoT** and **Full-stack systems**. I love bridging the gap between software and hardware through creative and impactful projects.
-
-🔍 Currently exploring areas in ML Network anomaly detection FOR WEB APPLICATION FIREWALL and **Smart early warning crisis detection systems** with emerging tech simulations.
-
----
+🎓 Computer Science & Engineering student focused on building intelligent, real-world systems using AI/ML, IoT, and full-stack development. I enjoy designing solutions that connect software with hardware to solve practical problems.
+Currently exploring machine learning–based network anomaly detection for Web Application Firewalls and smart early-warning crisis detection systems using simulation-driven approaches.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamsini-neelakantan) 
